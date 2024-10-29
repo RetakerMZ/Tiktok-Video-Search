@@ -66,3 +66,11 @@ Start the server
 ```bash
   npm run serve
 ```
+
+## Improvement
+
+This website lack some feature noteable one are :
+
+- Customizeable website for easier integration
+- Tagging / Vectorization content
+- Easy integration to other web application
